@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+tlslocalproxy
 
 # Test binary, build with `go test -c`
 *.test
